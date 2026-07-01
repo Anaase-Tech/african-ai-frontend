@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+gradio
+groq
+chromadb
+sentence-transformers
+rank-bm25
+requests
+numpy
+python-multipart
